@@ -6,7 +6,7 @@ try
     for (int i = 1; i <= num; i++)
     {
         if (i % 2 == 0)
-            System.Console.Write(i + " ");
+            Console.Write(i + " ");
     }
 }
 catch
