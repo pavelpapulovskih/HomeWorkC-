@@ -2,7 +2,7 @@
 // Через строку решать нельзя.
 try
 {
-    Console.WriteLine("Введите число");
+    Console.WriteLine("Введите число от трех значнаго и выше");
     int num = Convert.ToInt32(Console.ReadLine());
     num = Math.Abs(num);
 
