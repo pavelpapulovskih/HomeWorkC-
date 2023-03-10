@@ -14,6 +14,7 @@ try
     {
         max = num3;
     }
+    Console.Write("максимальное значение=");
     Console.WriteLine(max);
 }
 catch
